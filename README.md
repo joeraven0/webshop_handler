@@ -2,7 +2,7 @@
 Keystroke from API
 ## Projektstruktur ##
 ```
-projekt/
+webshop_handler/
     main.py
     handler/
         __init__.py
