@@ -1,5 +1,6 @@
 # webshop_handler
 Keystroke from API
+## Projektstruktur ##
 ```
 projekt/
     main.py
